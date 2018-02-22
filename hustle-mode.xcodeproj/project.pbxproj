@@ -12,6 +12,7 @@
 		8C28DCDD203E4AB500A3A9E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C28DCDB203E4AB500A3A9E6 /* Main.storyboard */; };
 		8C28DCDF203E4AB500A3A9E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C28DCDE203E4AB500A3A9E6 /* Assets.xcassets */; };
 		8C28DCE2203E4AB500A3A9E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C28DCE0203E4AB500A3A9E6 /* LaunchScreen.storyboard */; };
+		8C28DCEA203E4BA600A3A9E6 /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8C28DCE9203E4BA600A3A9E6 /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		8C28DCDE203E4AB500A3A9E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8C28DCE1203E4AB500A3A9E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8C28DCE3203E4AB500A3A9E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8C28DCE9203E4BA600A3A9E6 /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				8C28DCD7203E4AB500A3A9E6 /* AppDelegate.swift */,
 				8C28DCD9203E4AB500A3A9E6 /* ViewController.swift */,
 				8C28DCDB203E4AB500A3A9E6 /* Main.storyboard */,
+				8C28DCE9203E4BA600A3A9E6 /* hustle-on.wav */,
 				8C28DCDE203E4AB500A3A9E6 /* Assets.xcassets */,
 				8C28DCE0203E4AB500A3A9E6 /* LaunchScreen.storyboard */,
 				8C28DCE3203E4AB500A3A9E6 /* Info.plist */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8C28DCEA203E4BA600A3A9E6 /* hustle-on.wav in Resources */,
 				8C28DCE2203E4AB500A3A9E6 /* LaunchScreen.storyboard in Resources */,
 				8C28DCDF203E4AB500A3A9E6 /* Assets.xcassets in Resources */,
 				8C28DCDD203E4AB500A3A9E6 /* Main.storyboard in Resources */,
